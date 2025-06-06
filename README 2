@@ -1,5 +1,0 @@
-### 2. Dê permissão de execução e rode o instalador do rclone
-
-```bash
-chmod +x setup_rclone.sh
-./setup_rclone.sh
