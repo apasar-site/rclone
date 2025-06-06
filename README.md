@@ -22,12 +22,3 @@ Repositório: [https://github.com/apasar-site/rclone.git](https://github.com/apa
 ```bash
 git clone https://github.com/apasar-site/rclone.git
 cd rclone
-
-### 2. depois que seguir o passo a passo da escalação execute
-
-
-'''bash
-chmod +x setup_rclone.sh
-./setup_rclone.sh
-
-
