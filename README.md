@@ -24,3 +24,13 @@ git clone https://github.com/apasar-site/rclone.git
 cd rclone
 
  ```
+
+---
+
+### 2. Dê permissão de execução e rode o instalador do rclone
+
+```bash
+chmod +x setup_rclone.sh
+./setup_rclone.sh
+
+ ```
